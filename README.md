@@ -49,5 +49,5 @@ Uses a Card widget for rounded corners and shadow effects.
 ## Screenshots
 ## Faysal Bin Alauddin
 ### Header and Grid Layout
-![Header and Grid Layout](screenshorts/abc.png)
+![Header and Grid Layout](screenshots/abc.png)
 

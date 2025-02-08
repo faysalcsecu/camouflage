@@ -47,7 +47,7 @@ Displays either an icon (first variation) or an image (second variation) along w
 Uses a Card widget for rounded corners and shadow effects.
 
 ## Screenshots
-
+## Faysal Bin Alauddin
 ### Header and Grid Layout
 ![Header and Grid Layout](screenshorts/abc.png)
 
